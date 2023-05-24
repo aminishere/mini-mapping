@@ -1,0 +1,125 @@
+*{
+margin: 0;
+box-sizing: border-box;
+padding: 0;
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.top{
+background-color: rgb(26, 6, 53);
+text-align: center;
+padding: 20px;
+height: auto;
+display: block;
+}
+h2{
+  color: aliceblue;
+ 
+  font-weight: bold; 
+}
+
+h1{
+  margin: 8%;
+  display: block;
+  text-align: center;
+  font: size 10px;;
+}
+.in{
+  text-align: center;
+  border: white;
+}
+
+
+.s1{
+  
+  margin-bottom: 20%;
+  text-align: center;
+ background-color: rgb(219, 239, 236);
+ padding: 1%;
+}
+.s2{
+ 
+  width: 500px;
+ 
+  background-color: rgb(255, 255, 255);
+  
+  border-radius: 5px;
+  padding: 20px;
+  display: flex;
+  flex-direction: row;
+  margin: auto;
+  justify-content: space-between;
+  border: 1px solid black;
+}
+.arrow{
+  height: 40px;
+  width: 40px;
+}
+.icon1{
+  width: 30px;
+  height: 30px;
+
+}
+.main-1{
+  display: flex;
+
+}
+.currency{
+ margin-inline: auto;
+ padding-top: 5%;
+ padding-bottom: 5%;
+}
+
+.count{
+  margin-inline: auto;
+  padding-top: 5%;
+ padding-bottom: 5%;
+}
+.main-2{
+  display: flex;
+  border: 0.1px solid  rgb(140, 131, 131);
+  padding: 5px;
+  width: 500px;
+ margin: auto;
+ margin-bottom: 20px;
+}
+.icon2{
+  width: 20px;
+  margin-right: 5px;
+  
+}
+.a-1{
+  display: flex;
+  
+  margin-inline: auto;
+  padding: 20px;
+  color: rgb(48, 105, 86);
+}
+.a-2{
+  margin-inline: auto;
+  padding: 20px;
+  color: rgb(48, 105, 86);
+}
+.end{
+  display: flex;
+  flex-direction: row;
+  width: 500px;
+  margin: auto;
+  padding-top: 40px;
+  padding-bottom: 60px;
+}
+h4{
+  margin-right: auto;
+  margin-left: auto;
+  margin-bottom: auto;
+}
+.footer{
+  background-color: black;
+  color: white;
+text-align: center;
+  padding: 0.9%;
+
+ }
+ span{
+  color: #1518de;
+ }
